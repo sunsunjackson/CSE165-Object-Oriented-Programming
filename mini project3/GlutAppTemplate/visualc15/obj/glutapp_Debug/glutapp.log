@@ -1,0 +1,3 @@
+﻿  app_main.cpp
+App.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  glutapp.vcxproj -> C:\Users\Lopez\OneDrive\Desktop\GlutAppTemplate\visualc15\obj\glutapp_Debug\glutapp.exe
